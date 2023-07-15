@@ -1,0 +1,38 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url(Sign\ up.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.err-msg {
+    color: red;
+}
+
+.succ-msg {
+    color: rgb(62, 165, 189);
+}
+
+input {
+    outline: none;
+    border: 0;
+    border-bottom: 2px solid gray;
+    margin: 20px 0 20px 0;
+    width: 400px;
+}
+
+.box-1 {
+    margin: 209px 10px 10px 780px;
+}
+
+button{
+    border: none;
+    width: 400px;
+    height: 36px;
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(109, 199, 219);
+}
